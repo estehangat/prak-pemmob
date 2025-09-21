@@ -10,4 +10,4 @@
 - NIM: H1D023075
 - Shift KRS: F
 - Shift Baru: A
-- ![pert2](https://github.com/estehangat/prakpemmob-1/blob/main/pert3.mp4)
+- ![pert2](pert3.mp4)
