@@ -4,7 +4,7 @@
 - Shift Baru: A
 
 # Tugas 1 Pertemuan 2
-- ![pert2](https://github.com/estehangat/prakpemmob-1/blob/main/pert2.jpg)
+![pert2](https://github.com/user-attachments/assets/1d370b6b-d73a-4081-b87b-8fe990167b21)
 
 # Tugas 2 Pertemuan 3
 https://github.com/user-attachments/assets/03481c91-db07-4e97-9a8c-6b22182f2d1c
